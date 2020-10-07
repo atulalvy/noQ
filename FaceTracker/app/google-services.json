@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "638487186451",
+    "firebase_url": "https://noqstore-2a96a.firebaseio.com",
+    "project_id": "noqstore-2a96a",
+    "storage_bucket": "noqstore-2a96a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638487186451:android:5156d1cfeaf73706",
+        "android_client_info": {
+          "package_name": "com.subhan_nadeem.android.gms.samples.vision.face.facetracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "638487186451-d9svp3il1hqdeq4stkfo13b6jrqlnupf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCR1wbSBnXdUNYdweTic1MXbtDDPTKu_kY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
