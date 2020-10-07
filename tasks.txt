@@ -1,0 +1,27 @@
+Initial authentication :-
+  Mobile App UI and Backend
+  Kairos Api
+  Firebase Database
+
+Shelf front authentication :-
+  Mobile App UI and Backend
+  Kairos Api
+  Firebase Database
+
+Shelf front realtime Database :-
+  Mobile App Backend
+  Firebase Database
+
+Final Authentication :-
+  Mobile App UI and Backend
+  Kairos Api
+  Firebase Database
+
+or
+
+Initial and Final authentication merged into user application
+User Phone :-
+  Mobile App UI and Backend
+  Authentication
+  Cart application
+  Firebase Database
